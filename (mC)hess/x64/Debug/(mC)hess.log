@@ -1,0 +1,15 @@
+﻿  ChessBoard.cpp
+D:\Norco\year4\CIS-17A\(mC)hess\(mC)hess\Pieces.h(224,32): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file 'ChessBoard.cpp')
+  
+D:\Norco\year4\CIS-17A\(mC)hess\(mC)hess\Pieces.h(244,32): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file 'ChessBoard.cpp')
+  
+D:\Norco\year4\CIS-17A\(mC)hess\(mC)hess\ChessBoard.cpp(82,1): warning C4715: 'ChessBoard::getPosition': not all control paths return a value
+D:\Norco\year4\CIS-17A\(mC)hess\(mC)hess\Pieces.h(121,1): warning C4715: 'Bishop::toString': not all control paths return a value
+D:\Norco\year4\CIS-17A\(mC)hess\(mC)hess\Pieces.h(52,1): warning C4715: 'Rook::toString': not all control paths return a value
+D:\Norco\year4\CIS-17A\(mC)hess\(mC)hess\Pieces.h(40,1): warning C4715: 'Knight::toString': not all control paths return a value
+D:\Norco\year4\CIS-17A\(mC)hess\(mC)hess\Pieces.h(28,1): warning C4715: 'Queen::toString': not all control paths return a value
+D:\Norco\year4\CIS-17A\(mC)hess\(mC)hess\Pieces.h(205,1): warning C4715: 'Pawn::toString': not all control paths return a value
+D:\Norco\year4\CIS-17A\(mC)hess\(mC)hess\Pieces.h(16,1): warning C4715: 'King::toString': not all control paths return a value
+  (mC)hess.vcxproj -> D:\Norco\year4\CIS-17A\(mC)hess\x64\Debug\(mC)hess.exe
